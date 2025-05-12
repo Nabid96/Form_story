@@ -1,2 +1,2 @@
 # Form_story
-index.html
+Form_story/index.html
